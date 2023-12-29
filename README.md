@@ -2,15 +2,15 @@
 
 ## Screens
 
-![image](https://github.com/gulsumsmr/btkproje/assets/91094185/30f44031-68b7-4ceb-b06a-69ad2876c68f)
-![image](https://github.com/gulsumsmr/btkproje/assets/91094185/52e56850-897b-4d50-b284-ec60bcfd0909)
-![image](https://github.com/gulsumsmr/btkproje/assets/91094185/ac3b544a-c077-4b74-bf65-1073e5e9b664)
+
+<img src="https://github.com/gulsumsmr/btkproje/assets/91094185/2be53033-3ecf-4a2c-bad7-6be5320cf47d" width="350" height="300" alt="fotoğraf1">
+
+<img src="https://github.com/gulsumsmr/btkproje/assets/91094185/5c5de390-04af-4e97-8ec2-e6333fef2d3b" width="350" height="300" alt="fotoğraf2">
+
+<img src="https://github.com/gulsumsmr/btkproje/assets/91094185/65aa9e7d-fc9d-4afe-943b-c2fac86e2c60" width="350" height="300" alt="fotoğraf3">
+
+<img src="https://github.com/gulsumsmr/btkproje/assets/91094185/7f62ddab-34b6-4b8b-bdc9-e6439328ea77" width="350" height="300" alt="fotoğraf4">
 
 
 
-
-
-
-
-</br>
 
